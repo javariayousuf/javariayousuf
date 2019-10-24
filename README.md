@@ -1,3 +1,1 @@
-# javariayousuf
-
 ![](verve.pdf)
